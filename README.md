@@ -1,1 +1,1 @@
-# hash-program-
+Python programlama dilini kullanarak Linux ortamında geliştirilmiş bu basit uygulama, verilerin güvenliğini sağlamak amacıyla hashleme işlemlerini gerçekleştirir. Seçilen hash algoritması ile veriler şifrelenerek değiştirilemez ve güvenli bir şekilde saklanır.
